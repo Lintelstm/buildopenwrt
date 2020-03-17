@@ -2,9 +2,8 @@ name: 编译
 
 on: [push]
 
-jobs:
-  build:
-
+#jobs:
+ # build:
     runs-on: ubuntu-latest
 
     steps:
